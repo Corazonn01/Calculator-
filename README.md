@@ -1,7 +1,7 @@
 # Calculator-
 # how to make a calculator in different ways 
 # 1st way
-
+```python
 def simple_calculator(operation):
     num1 = float(input("Enter first number: "))  # Convert string input to float
     num2 = float(input("Enter second number: "))
